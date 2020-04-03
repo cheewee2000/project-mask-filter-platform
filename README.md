@@ -12,7 +12,6 @@ and [maskproject.tech](https://www.maskproject.tech/)
 
 This repository contains 3D printable versions as well as designs for injection molded versions.
 
-Status:
-2/4/2020
-- Files here have been superseded with more recent designs that are moving through DFM to be injection molded. (files to be hosted somewhere else in the near future)
+#Status:
+- 2/4/2020 Files here have been superseded with more recent designs that are moving through DFM to be injection molded. (files to be hosted somewhere else in the near future)
 
